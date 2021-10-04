@@ -5,6 +5,6 @@ Beginning of my Bootcamp and Web Dev journey in which I will always be updating 
 - Introduction to HTML and CSS :sunglasses: 
   - [x] Started
   - [x] Completed
-  - [ ] Commited
+  - [x] Commited
 
 - 
